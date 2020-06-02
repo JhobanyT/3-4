@@ -37,5 +37,4 @@ public static final String ANSI_CYAN = "\u001B[36m";
         System.out.println(ANSI_RED + "Total menores a cero: " + MenoresACero + ANSI_RESET);
         System.out.println(ANSI_GREEN + "Total de mayores a cero: " + MayoresACero + ANSI_RESET);
     }
-
 }
